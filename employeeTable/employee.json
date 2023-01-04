@@ -1,0 +1,50 @@
+[
+  {
+    "empName": "Nithya",
+    "empId": "5",
+    "empSal": "50000",
+    "empDesignation": "developer",
+    "empGender": "F",
+    "empEdu": "IS",
+    "empExp": "2 years",
+    "empImg": "https://cdn.pixabay.com/photo/2022/11/17/21/15/great-spotted-woodpecker-7598894__340.jpg",
+    "empSkills": ["HTML", "CSS", "CSS"],
+    "empCity": "Yalethodnhalli"
+  },
+  {
+    "empName": "GC",
+    "empId": "5",
+    "empSal": "50000",
+    "empDesignation": "developer",
+    "empGender": "M",
+    "empEdu": "IS",
+    "empExp": "2 years",
+    "empImg": "https://cdn.pixabay.com/photo/2022/11/27/10/31/bird-7619338_960_720.jpg",
+    "empSkills": ["HTML", "CSS", "CSS"],
+    "empCity": "Yalethodnhalli"
+  },
+  {
+    "empName": "Nithya",
+    "empId": "5",
+    "empSal": "50000",
+    "empDesignation": "developer",
+    "empGender": "F",
+    "empEdu": "IS",
+    "empExp": "2 years",
+    "empImg": "https://cdn.pixabay.com/photo/2022/11/12/05/00/flower-7586222_960_720.jpg",
+    "empSkills": ["HTML", "CSS", "CSS"],
+    "empCity": "Yalethodnhalli"
+  },
+  {
+    "empName": "GC",
+    "empId": "5",
+    "empSal": "50000",
+    "empDesignation": "developer",
+    "empGender": "M",
+    "empEdu": "IS",
+    "empExp": "2 years",
+    "empImg": "https://cdn.pixabay.com/photo/2022/11/27/10/31/bird-7619338_960_720.jpg",
+    "empSkills": ["HTML", "CSS", "CSS"],
+    "empCity": "Yalethodnhalli"
+  }
+]

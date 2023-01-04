@@ -1,0 +1,16 @@
+[
+  {
+    "courseName": "JAVA",
+    "trainer": "GC",
+    "duration": "3 Months",
+    "languages": ["HTML", "CSS", "JS", "REACT"],
+    "photo": "https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147__340.png"
+  },
+  {
+    "courseName": "MERN",
+    "trainer": "Nithya",
+    "duration": "3 Months",
+    "languages": ["HTML", "CSS", "JS", "REACT"],
+    "photo": "https://cdn.pixabay.com/photo/2022/05/27/11/17/coding-7224945__340.png"
+  }
+]

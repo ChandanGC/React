@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+
+button{
+    margin: 5px;
+    border-radius: 50px;
+    background-color: black;
+    color: rgb(195, 209, 102);
+   padding: 8px;
+   font-size: 15px;
+   font-weight:600;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
